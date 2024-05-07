@@ -1,4 +1,3 @@
-
 ---
 title: AI Resources
 layout: default
