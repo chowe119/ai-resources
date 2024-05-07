@@ -1,9 +1,6 @@
 title: AI Resources
 description: A collection of resources on generative AI
 
-
-![A pink axolotl in a tank](https://alicemcgrath.digital.brynmawr.edu/simple-site/images/janeway.jpg)
-
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
