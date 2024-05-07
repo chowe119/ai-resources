@@ -1,6 +1,8 @@
 title: AI Resources
 description: A collection of resources on generative AI
 
+[Flyer] (https://osf.io/dp4gy)
+
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
