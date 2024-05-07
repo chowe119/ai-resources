@@ -1,3 +1,8 @@
+---
+title: AI Resources
+layout: default
+---
+
 ## About
 
 ## My interests
@@ -8,7 +13,4 @@
 
 [Flyer](https://osf.io/dp4gy)
 
----
-title: AI Resources
-layout: default
----
+
